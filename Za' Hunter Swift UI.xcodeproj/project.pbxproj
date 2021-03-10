@@ -13,6 +13,7 @@
 		582A680F25F6882400ED58E8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 582A680E25F6882400ED58E8 /* Preview Assets.xcassets */; };
 		582A681A25F6882400ED58E8 /* Za__Hunter_Swift_UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582A681925F6882400ED58E8 /* Za__Hunter_Swift_UITests.swift */; };
 		582A682525F6882400ED58E8 /* Za__Hunter_Swift_UIUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582A682425F6882400ED58E8 /* Za__Hunter_Swift_UIUITests.swift */; };
+		582A684425F68BBA00ED58E8 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 582A684325F68BBA00ED58E8 /* LocationManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		582A682025F6882400ED58E8 /* Za' Hunter Swift UIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Za' Hunter Swift UIUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		582A682425F6882400ED58E8 /* Za__Hunter_Swift_UIUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Za__Hunter_Swift_UIUITests.swift; sourceTree = "<group>"; };
 		582A682625F6882400ED58E8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		582A684325F68BBA00ED58E8 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 			children = (
 				582A680725F6882000ED58E8 /* Za__Hunter_Swift_UIApp.swift */,
 				582A680925F6882000ED58E8 /* ContentView.swift */,
+				582A684325F68BBA00ED58E8 /* LocationManager.swift */,
 				582A680B25F6882400ED58E8 /* Assets.xcassets */,
 				582A681025F6882400ED58E8 /* Info.plist */,
 				582A680D25F6882400ED58E8 /* Preview Content */,
@@ -261,6 +264,7 @@
 			files = (
 				582A680A25F6882000ED58E8 /* ContentView.swift in Sources */,
 				582A680825F6882000ED58E8 /* Za__Hunter_Swift_UIApp.swift in Sources */,
+				582A684425F68BBA00ED58E8 /* LocationManager.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
